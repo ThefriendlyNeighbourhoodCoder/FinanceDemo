@@ -1,1 +1,2 @@
 # FinanceMangerDemo Project
+## Contributing
